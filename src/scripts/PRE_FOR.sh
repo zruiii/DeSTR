@@ -12,7 +12,7 @@ CUDA_VISIBLE_DEVICES=$1
 # DeSTR
 PRE_MODEL="DeSTR"
 FOR_MODEL="ForecastModel"
-MODEL_PATH="../save/pretrain/pretrain_DeSTR_20230918_2006.pth"
+MODEL_PATH="../save/DeSTR_pretrain.pth"
 
 # PatchTST
 # MODEL_PATH="../save/pretrain/pretrain_PatchTST_20230911_1914.pth"
