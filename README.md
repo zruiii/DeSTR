@@ -1,6 +1,4 @@
-<div align="center">
 # Scaling up Multivariate Time Series Pre-Training with Decoupled Spatial-Temporal Representations
-</div>
 
 
 Code for our paper:"Scaling up Multivariate Time Series Pre-Training with Decoupled Spatial-Temporal Representations"
